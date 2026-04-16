@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-04-16T11:39:16.347871+07:00 by Eclipse SUMO GUI 1.26.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\phong.ha\Sumo\2026-04-16-09-32-25\osm.net.xml.gz"/>
+        <route-files value="C:\Users\phong.ha\Sumo\2026-04-16-09-32-25\osm.passenger.trips.xml"/>
+        <additional-files value="C:\Users\phong.ha\Sumo\2026-04-16-09-32-25\osm.poly.xml.gz,C:\Users\phong.ha\Sumo\2026-04-16-09-32-25\output.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="C:\Users\phong.ha\Sumo\2026-04-16-09-32-25\tripinfos.xml"/>
+        <statistic-output value="C:\Users\phong.ha\Sumo\2026-04-16-09-32-25\stats.xml"/>
+    </output>
+
+    <report>
+        <verbose value="true"/>
+        <duration-log.statistics value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <gui_only>
+        <gui-settings-file value="C:\Users\phong.ha\Sumo\2026-04-16-09-32-25\osm.view.xml"/>
+    </gui_only>
+
+</sumoConfiguration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+</tripinfos>
